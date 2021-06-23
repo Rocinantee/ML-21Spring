@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c0017a85-02a1-4648-aff4-6512d2bc7059" name="rocinante.top">
+        <fileTransfer rootFolder="/root/py" accessType="SFTP" host="139.196.173.115" port="22" sshConfigId="47c35e54-c606-4bbc-93a8-723305fa61d7" sshConfig="root@139.196.173.115:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
